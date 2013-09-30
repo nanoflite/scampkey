@@ -18,6 +18,8 @@ Enjoy...
 
 Johan
 
+![alt tag](https://github.com/nanoflite/scampkey/raw/master/images/shrimp.jpg)
+
 ## Usage
 
 Copy the UsbKeyboard folder to your Arduino libraries folder (~/Documents/Arduino/libraries on OSX) and open the sketch in the Arduino IDE.
