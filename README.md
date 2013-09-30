@@ -30,6 +30,11 @@ If you set the 'REPEAT' flag to false then the key repeat is disbaled when holdi
 
 The 9 key codes default to WASD, IJKL and space. Gamers and vim users should feel at home ;-)
 
+## Samples using Scratch
+
+  * [Wack-A-Potato](http://scratch.mit.edu/projects/12786120)
+  * [Trommelpatat](http://scratch.mit.edu/projects/12800305)
+
 ## Credits
 
 Thanks to Sjoerd Dirk Meijer for creating the shrimpkey!
