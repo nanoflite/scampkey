@@ -10,7 +10,7 @@ After talking with the author of the Shrimpkey, it was not clear what was wrong,
 
 So after some long debugging hours and looking at the prototyping board I was sure the soldering was OK, and the problem was located in the firmware.
 
-There was only thing left for me to do, to get it all to work... write my own firmware for the Shrimpkey.
+There was only one thing left for me to do, to get it all to work... write my own firmware for the Shrimpkey.
 
 So here it is... Scampkey, an alternative firmware for the Shrimpkey.
 
